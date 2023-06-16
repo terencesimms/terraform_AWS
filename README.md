@@ -6,3 +6,4 @@ Plan will create a basic tomcat instance, with
 - ALB
 - in 3 regions
 - security groups
+- dev, qa and production environments
